@@ -1,0 +1,2 @@
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Orleans.Grain.csproj.AssemblyReference.cache
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Orleans.Grain.orleans.g.args.txt

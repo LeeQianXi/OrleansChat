@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ChatTest.Ui" GeneratedClassName="LoginWindowSetting">
+  <Profiles />
+  <Settings>
+    <Setting Name="Background" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bg1.jpg</Value>
+    </Setting>
+    <Setting Name="Theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dark</Value>
+    </Setting>
+    <Setting Name="HeadBackGroundColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#eadcd6</Value>
+    </Setting>
+    <Setting Name="BorderColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#eee1ca</Value>
+    </Setting>
+    <Setting Name="HeadBtnOverColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#edebe0</Value>
+    </Setting>
+    <Setting Name="HeadBtnPressCC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#ff0000</Value>
+    </Setting>
+    <Setting Name="HeadBtnPressMC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#edeadc</Value>
+    </Setting>
+    <Setting Name="ActionColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#FFF34B4B</Value>
+    </Setting>
+    <Setting Name="WindowIcon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

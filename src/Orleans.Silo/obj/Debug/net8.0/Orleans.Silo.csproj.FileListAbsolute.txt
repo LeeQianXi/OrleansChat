@@ -1,0 +1,5 @@
+D:\Dev\OrleansTest\Orleans.Silo\obj\Debug\net8.0\Orleans.Silo.csproj.AssemblyReference.cache
+D:\Dev\OrleansTest\Orleans.Silo\obj\Debug\net8.0\Orleans.Silo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\OrleansTest\Orleans.Silo\obj\Debug\net8.0\Orleans.Silo.AssemblyInfoInputs.cache
+D:\Dev\OrleansTest\Orleans.Silo\obj\Debug\net8.0\Orleans.Silo.AssemblyInfo.cs
+D:\Dev\OrleansTest\Orleans.Silo\obj\Debug\net8.0\Orleans.Silo.csproj.CoreCompileInputs.cache

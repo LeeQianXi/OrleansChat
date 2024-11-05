@@ -1,0 +1,12 @@
+D:\Dev\OrleansTest\Orleans.IGrains\bin\Debug\net8.0\Test.IGrains.deps.json
+D:\Dev\OrleansTest\Orleans.IGrains\bin\Debug\net8.0\Test.IGrains.dll
+D:\Dev\OrleansTest\Orleans.IGrains\bin\Debug\net8.0\Test.IGrains.pdb
+D:\Dev\OrleansTest\Orleans.IGrains\obj\Debug\net8.0\Test.IGrains.csproj.AssemblyReference.cache
+D:\Dev\OrleansTest\Orleans.IGrains\obj\Debug\net8.0\Test.IGrains.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\OrleansTest\Orleans.IGrains\obj\Debug\net8.0\Test.IGrains.AssemblyInfoInputs.cache
+D:\Dev\OrleansTest\Orleans.IGrains\obj\Debug\net8.0\Test.IGrains.AssemblyInfo.cs
+D:\Dev\OrleansTest\Orleans.IGrains\obj\Debug\net8.0\Test.IGrains.csproj.CoreCompileInputs.cache
+D:\Dev\OrleansTest\Orleans.IGrains\obj\Debug\net8.0\Test.IGrains.dll
+D:\Dev\OrleansTest\Orleans.IGrains\obj\Debug\net8.0\refint\Test.IGrains.dll
+D:\Dev\OrleansTest\Orleans.IGrains\obj\Debug\net8.0\Test.IGrains.pdb
+D:\Dev\OrleansTest\Orleans.IGrains\obj\Debug\net8.0\ref\Test.IGrains.dll

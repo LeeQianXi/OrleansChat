@@ -1,0 +1,15 @@
+D:\Dev\OrleansTest\Orleans.Grain\bin\x64\Debug\net8.0\Test.Grains.deps.json
+D:\Dev\OrleansTest\Orleans.Grain\bin\x64\Debug\net8.0\Test.Grains.dll
+D:\Dev\OrleansTest\Orleans.Grain\bin\x64\Debug\net8.0\Test.Grains.pdb
+D:\Dev\OrleansTest\Orleans.Grain\bin\x64\Debug\net8.0\Test.IGrains.dll
+D:\Dev\OrleansTest\Orleans.Grain\bin\x64\Debug\net8.0\Test.IGrains.pdb
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Test.Grains.csproj.AssemblyReference.cache
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Test.Grains.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Test.Grains.AssemblyInfoInputs.cache
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Test.Grains.AssemblyInfo.cs
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Test.Grains.csproj.CoreCompileInputs.cache
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Test.Gra.6CDEF537.Up2Date
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Test.Grains.dll
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\refint\Test.Grains.dll
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\Test.Grains.pdb
+D:\Dev\OrleansTest\Orleans.Grain\obj\x64\Debug\net8.0\ref\Test.Grains.dll
